@@ -1,0 +1,18 @@
+# Core ML and Audio Processing
+torch 
+torchvision 
+torchaudio
+librosa
+opencv-python
+numpy
+scipy
+
+# Optional: Advanced ML libraries
+transformers
+diffusers
+accelerate
+onnxruntime
+
+# Audio processing
+soundfile
+pyaudio # For real-time audio
